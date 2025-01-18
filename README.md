@@ -63,6 +63,6 @@ This project was completed as part of the Coursera course **"Intoduction to Comp
 
 ## Connect
 Feel free to reach out with feedback or collaboration opportunities!
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [ShashankGoutam](https://github.com/ShashankGoutam)
+- LinkedIn: [Shashank Goutam](in/shashank-goutam-735924288)
 
