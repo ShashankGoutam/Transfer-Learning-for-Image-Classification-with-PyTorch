@@ -50,7 +50,7 @@ This project demonstrates the application of transfer learning with Convolutiona
 
 ## File Structure
 - `train-classification-cnn-pytorch.ipynb`: Jupyter notebook containing the implementation.
-- `model.pt`: Saved PyTorch model.
+
 
 
 ---
