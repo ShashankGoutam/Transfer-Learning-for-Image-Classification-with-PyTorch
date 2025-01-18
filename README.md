@@ -64,5 +64,5 @@ This project was completed as part of the Coursera course **"Intoduction to Comp
 ## Connect
 Feel free to reach out with feedback or collaboration opportunities!
 - GitHub: [ShashankGoutam](https://github.com/ShashankGoutam)
-- LinkedIn: [Shashank Goutam](www.linkedin.com/in/shashank-goutam-735924288)
+- LinkedIn: www.linkedin.com/in/shashank-goutam-735924288
 
