@@ -28,7 +28,7 @@ This project demonstrates the application of transfer learning with Convolutiona
 ### Running the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/transfer-learning-cnn.git
+    git clone https://github.com/ShashankGoutam/transfer-learning-cnn.git
     cd transfer-learning-cnn
     ```
 2. Open the Jupyter notebook:
