@@ -29,7 +29,7 @@ This project demonstrates the application of transfer learning with Convolutiona
 1. Clone the repository:
     ```bash
     gh repo clone ShashankGoutam/Transfer-Learning-for-Image-Classification-with-PyTorch
-    cd transfer-learning-cnn
+    cd train-classification-cnn-pytorch (1).ipynb
     ```
 2. Open the Jupyter notebook:
     ```bash
